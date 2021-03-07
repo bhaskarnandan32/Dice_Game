@@ -1,0 +1,2 @@
+# Dice_Game
+This Application is based on an online Drum-Kit  in which different keys of keyboard correspond to different instruments of a Drum-Kit. Using JavaScript and JQuery the key-strike event listeners produce different sounds on striking of keys that corresponds to that particular instrument of the Drum-Kit and we can play Drum-Kit using our keyboard.It was designed using CSS and Bootstrap and the functionality incorporates the  DOM model. 
